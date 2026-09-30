@@ -9,5 +9,3 @@ This is Modified at Remote Repository.
 
 lets test git gui
 
-Remove remote repo commits.
-
