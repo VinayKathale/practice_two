@@ -2,4 +2,8 @@ This is text file1.
 This has been Modifed(1).
 This has been Modified again(2).
 
+
 This is modified at Local Repository.
+
+This is Modified at Remote Repository.
+
